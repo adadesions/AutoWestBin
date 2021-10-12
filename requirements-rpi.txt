@@ -14,7 +14,7 @@ Markdown==3.2.1
 matplotlib==3.2.1
 numpy==1.18.4
 opencv-python==4.1.0.25
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.1.1.26
 Pillow==7.1.2
 protobuf==3.11.3
 pyparsing==2.4.7
